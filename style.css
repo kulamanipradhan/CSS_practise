@@ -1,16 +1,32 @@
-.Wheader
+h2:hover
 {
-    text-align: center;
-    color: black;
-    font-family: 'Courier New', Courier, monospace;
-    background-color: aquamarine;
-    ;
+    color: red;
 }
-h1{
-    text-align: center;
-}
-#huluhulu
+#about-me
 {
-    background-color: aqua;
-    text-align: center;
+    color: blue;
+}
+.contact-us
+{
+    color: green;
+}
+#google-com:link
+{
+    color: red;
+}
+#google-com:visited
+{
+    color:turquoise;
+}
+li:first-child
+{
+    color:purple;
+}
+li:last-child
+{
+    color:green;
+}
+li:nth-child(2)
+{
+    color:blue;
 }
